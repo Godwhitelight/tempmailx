@@ -1,5 +1,3 @@
-
-
 class Email:
     def __init__(self, login: str, domain: str, eid: int, sender: str, do_action):
         self.__login = login
