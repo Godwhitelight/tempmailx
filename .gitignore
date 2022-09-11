@@ -1,0 +1,4 @@
+.pypirc
+main.py
+pyproject.toml
+venv
