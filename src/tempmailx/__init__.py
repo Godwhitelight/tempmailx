@@ -1,5 +1,5 @@
 import requests
-from src.tempmailx.email import Email
+from tempmailx.email import Email
 
 
 class TempMail:
